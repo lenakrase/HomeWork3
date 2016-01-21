@@ -4,13 +4,14 @@ namespace Model
 {
     public class Numbertron
     {
+        Random rnd=new Random();
+
         public event EventHandler<EventArgsNewNumber> NewNumber;
 
-        public void Generate(Random rnd)
+        public void Generate()
         {
-            var number = rnd.Next(0, 100);
+            int number = rnd.Next(100);
             NewNumber?.Invoke(this, new EventArgsNewNumber(number));
-
         }
     }
 }

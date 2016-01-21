@@ -5,3 +5,10 @@ C:\Users\Елена\Desktop\Учёба\Курсы\HomeWork-3\Model\obj\Debug\Mod
 C:\Users\Елена\Desktop\Учёба\Курсы\HomeWork-3\Model\obj\Debug\Model.pdb
 C:\Users\Елена\Desktop\Учёба\Курсы\HomeWork-3\Model\bin\Debug\Helper.dll
 C:\Users\Елена\Desktop\Учёба\Курсы\HomeWork-3\Model\bin\Debug\Helper.pdb
+C:\Users\Елена\Desktop\Учёба\Курсы\HomeWork3-master\HomeWork-3\Model\bin\Debug\Model.dll
+C:\Users\Елена\Desktop\Учёба\Курсы\HomeWork3-master\HomeWork-3\Model\bin\Debug\Model.pdb
+C:\Users\Елена\Desktop\Учёба\Курсы\HomeWork3-master\HomeWork-3\Model\bin\Debug\Helper.dll
+C:\Users\Елена\Desktop\Учёба\Курсы\HomeWork3-master\HomeWork-3\Model\bin\Debug\Helper.pdb
+C:\Users\Елена\Desktop\Учёба\Курсы\HomeWork3-master\HomeWork-3\Model\obj\Debug\Model.dll
+C:\Users\Елена\Desktop\Учёба\Курсы\HomeWork3-master\HomeWork-3\Model\obj\Debug\Model.pdb
+C:\Users\Елена\Desktop\Учёба\Курсы\HomeWork3-master\HomeWork-3\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache

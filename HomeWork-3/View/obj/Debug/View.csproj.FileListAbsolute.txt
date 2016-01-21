@@ -8,3 +8,13 @@ C:\Users\Елена\Desktop\Учёба\Курсы\HomeWork-3\View\obj\Debug\View
 C:\Users\Елена\Desktop\Учёба\Курсы\HomeWork-3\View\obj\Debug\View.pdb
 C:\Users\Елена\Desktop\Учёба\Курсы\HomeWork-3\View\bin\Debug\Helper.dll
 C:\Users\Елена\Desktop\Учёба\Курсы\HomeWork-3\View\bin\Debug\Helper.pdb
+C:\Users\Елена\Desktop\Учёба\Курсы\HomeWork3-master\HomeWork-3\View\bin\Debug\View.exe.config
+C:\Users\Елена\Desktop\Учёба\Курсы\HomeWork3-master\HomeWork-3\View\obj\Debug\View.exe
+C:\Users\Елена\Desktop\Учёба\Курсы\HomeWork3-master\HomeWork-3\View\obj\Debug\View.pdb
+C:\Users\Елена\Desktop\Учёба\Курсы\HomeWork3-master\HomeWork-3\View\bin\Debug\View.exe
+C:\Users\Елена\Desktop\Учёба\Курсы\HomeWork3-master\HomeWork-3\View\bin\Debug\View.pdb
+C:\Users\Елена\Desktop\Учёба\Курсы\HomeWork3-master\HomeWork-3\View\bin\Debug\Model.dll
+C:\Users\Елена\Desktop\Учёба\Курсы\HomeWork3-master\HomeWork-3\View\bin\Debug\Helper.dll
+C:\Users\Елена\Desktop\Учёба\Курсы\HomeWork3-master\HomeWork-3\View\bin\Debug\Model.pdb
+C:\Users\Елена\Desktop\Учёба\Курсы\HomeWork3-master\HomeWork-3\View\bin\Debug\Helper.pdb
+C:\Users\Елена\Desktop\Учёба\Курсы\HomeWork3-master\HomeWork-3\View\obj\Debug\View.csprojResolveAssemblyReference.cache

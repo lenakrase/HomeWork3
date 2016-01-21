@@ -9,7 +9,6 @@ namespace View
         {
             Gambler jay=new Jay();
             Gambler silentBob = new SilentBob();
-            Random rnd = new Random();
             Numbertron numbertron= new Numbertron();
 
             numbertron.NewNumber += jay.FetchNewNumber;
@@ -21,9 +20,9 @@ namespace View
                 Console.WriteLine("Количество чисел для решения спора: ");
                 int.TryParse(Console.ReadLine(), out number);
             }
-            for (var n = 0; n <= number; n++)
+            for (var n = 0; n < number; n++)
             {
-                numbertron.Generate(rnd);
+                numbertron.Generate();
             }
 
             if (jay.Score > silentBob.Score)
